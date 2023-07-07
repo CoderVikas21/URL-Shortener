@@ -1,6 +1,6 @@
 # URL-Shortener
 
-A URL-Shortener created using Node-JS and synced with Firebase Database.
+A URL-Shortener created using HTML ,CSS ,JavaScript.
 
 ## Why use it?
 
