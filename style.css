@@ -10,6 +10,20 @@ body{
     height: 400px;
     text-align: center;
 }
+.clr{
+    display: inline-block;
+    right: -214px;
+    top: 8px;
+    position: relative;
+    background-color: rgb(145, 159, 246);
+    color: black;
+    border-radius: 4px;
+    font-size: 17px;
+}
+.clr:hover{
+    color: white;
+    background-color: rgb(17, 4, 57);
+}
 .image{
     position: absolute;
     top: 4px;
