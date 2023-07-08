@@ -1,6 +1,7 @@
 # URL-Shortener
 
 A URL-Shortener created using HTML ,CSS ,JavaScript.
+<img src="demo.png width=400px height=400px>
 
 ## Why use it?
 
